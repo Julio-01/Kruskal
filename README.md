@@ -77,10 +77,10 @@ Nos basamos en las siguientes imagenes para el ejemplo.txt.
 
 La primera imagen es la grafica normal:
 
-<img src="images/Grafica1.png" width="600" height= '400'>
+<img src="images/Grafica1.png" width="300" height= '100'>
 
 La segunda imagen es la grafica implementada con Kruskal:
 
-<img src="images/Grafica2.png" width="600" height= '400'>
+<img src="images/Grafica2.png" width="200" height= '100'>
 
 Observamos que el algoritmo si realiza de manera correcta la implementacion.
